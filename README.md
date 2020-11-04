@@ -7,3 +7,4 @@ Who Built That?
 ## Names:
 - Alex Chill
 - Haiyang Wang
+- Gregory Newbold
