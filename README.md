@@ -1,10 +1,3 @@
-# CMSC436-SemesterProject
+Our app allows user to enter a brand or product either by a text entry, or by a photo of the brands or products logo. After receiving this data, the app will provide the user with the parent company of the brand or product, a description of the parent company, the parent companies fortune 500 rankings, the affiliated brands and products of the parent company, and a picture of the parent company.
 
-## Team Number
-38
-## Project Name
-Who Built That?
-## Names:
-- Alex Chill
-- Haiyang Wang
-- Gregory Newbold
+Upon starting the one can type the name of the company in the box titled "enter company." After typing up the name of the company click the add button. This will add the inputted text to the list of searches. To learn more about the company, product, or brand you searched for simply click on its text. This will take you to a view that contains more infromation on the searched entity. Alternatively one can also search for a the company, product, or brand by taking a picture of the corresponding logo.

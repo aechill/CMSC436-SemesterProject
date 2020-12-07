@@ -1,0 +1,45 @@
+This software was developed for the CMSC436 Fall 2020 Semester Project. It used a number of open-source libraries, some licensed under the Apache 2.0 License.
+The Apache 2.0 License can be found at this link: https://www.apache.org/licenses/LICENSE-2.0
+
+Licensed under Apache 2.0: Picasso (https://square.github.io/picasso/), Sharp (https://github.com/Pixplicity/sharp), Gson (https://github.com/google/gson),
+Wikidata Toolkit (https://github.com/Wikidata/Wikidata-Toolkit), Activity Result APIs (https://developer.android.com/training/basics/intents/result), 
+ML Kit (https://developers.google.com/ml-kit)
+
+Other software used: Apache DigestUtils (https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/digest/DigestUtils.html)
+
+A big thank you to the above entities!
+
+Below is the NOTICE from the Sharp software set, as consistent with the terms of the Apache 2.0 license:
+
+--------------------------------------------
+
+Sharp
+Copyright 2011 Pixplicity, Larva Labs LLC and Google, Inc.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+---
+
+Apache Batik
+Copyright 1999-2007 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This software contains code from the World Wide Web Consortium (W3C) for the
+Document Object Model API (DOM API) and SVG Document Type Definition (DTD).
+
+This software contains code from the International Organisation for
+Standardization for the definition of character entities used in the software's
+documentation.
+
+This product includes images from the Tango Desktop Project
+(http://tango.freedesktop.org/).
+
+This product includes images from the Pasodoble Icon Theme
+(http://www.jesusda.com/projects/pasodoble).
+
+This product contains code from Stephen Uhler 
+(http://http://code.google.com/p/svg-android-2)
+released with Apache License  Version 2.0
